@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/LisboaFred">
-   <img align"center" height="150em" width="130" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/backend-adesivo-sticker-800x800.png"/>
+   <img align="center" height="150em" width="200" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/backend-adesivo-sticker-800x800.png"/><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LisboaFred&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaFred&layout=compact&langs_count=6&theme=tokyonight"/>
 
