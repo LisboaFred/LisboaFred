@@ -26,7 +26,7 @@
  <br>
  
 <div> 
-  <a href="https://fredericolisboa.me" target="_blank"><img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Meu Site"></a>
+  <a href="https://fredericolisboa.me" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Meu Site"></a>
   <a href="https://www.linkedin.com/in/frederico-lisboa-703877262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lisboafreed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
