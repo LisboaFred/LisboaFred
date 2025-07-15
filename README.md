@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Frederico Lisboa 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LisboaFred&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LisboaFred&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaFred&show_icons=true&theme=tokyonight)](https://github.com/LisboaFred/github-readme-stats)
 
 
