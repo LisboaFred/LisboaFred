@@ -22,14 +22,13 @@ Sou Backend Developer com experiência em Node.js, TypeScript, Supabase e AWS, a
 
 </div>
 <br>
-<br>
+
 
 ## 📊 Estatísticas
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LisboaFred&show_icons=true&theme=dark#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaFred&show_icons=true&theme=tokyonight)](https://github.com/LisboaFred/github-readme-stats)
  
-<br>
 <br>
 
 ## 🌐 Onde me encontrar
