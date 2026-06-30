@@ -1,26 +1,27 @@
 # Frederico Lisboa
 
-Backend-focused Fullstack Developer building scalable web and mobile applications, APIs, automations, and system integrations.
+Desenvolvedor Full Stack com foco em backend, construindo aplicações web e mobile escaláveis, APIs, automações e integrações entre sistemas.
 
-I work mainly with TypeScript, Node.js, React, React Native, Supabase, and AWS, creating reliable solutions that improve user experience, reduce manual work, and support business growth.
+Trabalho principalmente com TypeScript, Node.js, React, React Native, Supabase e AWS, criando soluções confiáveis que melhoram a experiência do usuário, reduzem trabalho manual e apoiam o crescimento do negócio.
 
-## About me
+## Sobre mim
 
-I develop end-to-end digital solutions, from backend architecture and API design to integrations, automation, and product delivery.
+Desenvolvo soluções digitais de ponta a ponta, desde a arquitetura backend e criação de APIs até integrações, automações e entrega de produtos.
 
-My main focus is building systems that are:
-- scalable
-- maintainable
-- secure
-- aligned with real business needs
+Meu principal foco é construir sistemas que sejam:
 
-## What I do
+- escaláveis
+- fáceis de manter
+- seguros
+- alinhados a necessidades reais do negócio
 
-- Build APIs and backend services with Node.js and TypeScript
-- Develop web and mobile applications with React and React Native
-- Design integrations between internal tools, CRMs, and third-party platforms
-- Work with relational and non-relational databases
-- Deploy and maintain cloud-based applications and automation workflows
+## O que eu faço
+
+- Desenvolvimento de APIs e serviços backend com Node.js e TypeScript
+- Desenvolvimento de aplicações web e mobile com React e React Native
+- Integração entre ferramentas internas, CRMs e plataformas de terceiros
+- Trabalho com bancos de dados relacionais e não relacionais
+- Deploy e manutenção de aplicações em cloud e fluxos de automação
 
 ## Tech stack
 
