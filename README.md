@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack com foco em backend, construindo aplicações web e mobile escaláveis, APIs, automações e integrações entre sistemas.
 
-Trabalho principalmente com TypeScript, Node.js, React, React Native, Supabase e AWS, criando soluções confiáveis que melhoram a experiência do usuário, reduzem trabalho manual e apoiam o crescimento do negócio.
+Trabalho principalmente com TypeScript, Node.js, Python, React, React Native, Supabase e AWS, criando soluções confiáveis que melhoram a experiência do usuário, reduzem trabalho manual e apoiam o crescimento do negócio.
 
 ## Sobre mim
 
@@ -17,7 +17,7 @@ Meu principal foco é construir sistemas que sejam:
 
 ## O que eu faço
 
-- Desenvolvimento de APIs e serviços backend com Node.js e TypeScript
+- Desenvolvimento de APIs e serviços backend com Node.js,TypeScript e Python
 - Desenvolvimento de aplicações web e mobile com React e React Native
 - Integração entre ferramentas internas, CRMs e plataformas de terceiros
 - Trabalho com bancos de dados relacionais e não relacionais
